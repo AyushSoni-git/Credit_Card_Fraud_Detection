@@ -11,3 +11,9 @@ Interested in deeper understanding of Machine Learning algorithms? Implement the
 </a>
 
 <a href="https://leanpub.com/hmls" target="_blank">Read the book here</a>
+
+### Dataset for Fraud Detection
+Download the Credit Card Fraud Detection Dataset
+<a src="https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud">Click here.</a>
+
+Now, create a folder, having the name 'data' and save the dataset file into it for further analysis.
